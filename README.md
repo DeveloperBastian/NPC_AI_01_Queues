@@ -2,7 +2,7 @@
 
 # Developer Bastian - NPC AI 01 #
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/UQgrfijfwsY?si=2XLd-oWlOxM1CeRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Unreal AI Queuing Bastian Dev](pics/UnrealAI_Queuing_Bastian_Dev.png)
 
 ## Demo of Unreal NPC behavior: BlackBoards, Behavior Trees, Queues ##
 
